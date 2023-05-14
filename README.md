@@ -23,13 +23,16 @@ I have a small homelab at home consisting of an R710, a T330, and few Raspberry 
 
 #### My Operating Systems
 
+<p>
 <img alt="Linux Mint" src="https://img.shields.io/badge/-Linux Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white"/>
 <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-1793D1?style=flat&logo=archlinux&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 <img alt="Debian" src="https://img.shields.io/badge/-Debian-F53897?style=flat&logo=debian&logoColor=white"/>
+</p>
 
 #### At Work
 
+<p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
@@ -40,20 +43,25 @@ I have a small homelab at home consisting of an R710, a T330, and few Raspberry 
 <img alt="Virtual Studio Code" src="https://img.shields.io/badge/-Virtual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat&logo=Google Cloud&logoColor=white" />
+</p>
 
 
 #### My Homelab
 
+<p>
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white"/>
 <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=Proxmox&logoColor=white" />
 <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=Cisco&logoColor=white" />
 <img alt="Dell R710" src="https://img.shields.io/badge/-Dell R710-007DB8?style=flat&logo=Dell&logoColor=white" />
 <img alt="Dell T330" src="https://img.shields.io/badge/-Dell T330-007DB8?style=flat&logo=Dell&logoColor=white" />
+</p>
 
 #### For fun
 
+<p>
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
 <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
 <img alt="TimescaleDB" src="https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat&logo=timescale&logoColor=white" />
 <img alt="OVH" src="https://img.shields.io/badge/-OVH-123F6D?style=flat&logo=OVH&logoColor=white" />
+</p>
